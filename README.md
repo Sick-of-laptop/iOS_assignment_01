@@ -1,3 +1,8 @@
+## 👨‍🎓 Developer Information  
+**Name:** Swapnil Kundu Argha<br>
+**Roll Number:** 2007062  </br>
+**Year:** 3rd year 2nd semester 
+
 # BMI Calculator Application  
 
 ## 📄 About the Project  
@@ -21,10 +26,6 @@ This is a simple yet functional BMI (Body Mass Index) Calculator application dev
 <img src="Simulator Screenshot - iPhone 16 Pro - 2024-11-21 at 18.12.18.png" width="300">
 <img src="Simulator Screenshot - iPhone 16 Pro - 2024-11-21 at 18.13.01.png" width="300">
 
-## 👨‍🎓 Developer Information  
-**Name:** Swapnil Kundu Argha
-**Roll Number:** 2007062  
-**Year:** 3rd year 2nd semester 
 
 ## 🚀 Getting Started  
 1. Clone the repository:  
