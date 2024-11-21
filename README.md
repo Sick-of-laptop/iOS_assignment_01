@@ -8,12 +8,18 @@ This is a simple yet functional BMI (Body Mass Index) Calculator application dev
 - BMI calculation with a simple formula.  
 - A clean and user-friendly interface.  
 - Displays the calculated BMI and its category (e.g., Underweight, Normal, Overweight).  
+ 
+## Screenshots
 
-## 📷 Screenshots  
-![BMI Calculator Main Screen](Simulator Screenshot - iPhone 16 Pro - 2024-11-21 at 18.11.36.png)
-![BMI Calculator Input Screen](Simulator Screenshot - iPhone 16 Pro - 2024-11-21 at 18.12.04.png)
-(Simulator Screenshot - iPhone 16 Pro - 2024-11-21 at 18.12.18.png)
-(Simulator Screenshot - iPhone 16 Pro - 2024-11-21 at 18.13.01.png)
+### Home Screen
+<img src="Simulator Screenshot - iPhone 16 Pro - 2024-11-21 at 18.11.36.png" width="300">
+
+### BMI Input Form
+<img src="Simulator Screenshot - iPhone 16 Pro - 2024-11-21 at 18.12.04.png" width="300">
+
+### BMI Results with Progress Bar
+<img src="Simulator Screenshot - iPhone 16 Pro - 2024-11-21 at 18.12.18.png" width="300">
+<img src="Simulator Screenshot - iPhone 16 Pro - 2024-11-21 at 18.13.01.png" width="300">
 
 ## 👨‍🎓 Developer Information  
 **Name:** Swapnil Kundu Argha
